@@ -10,3 +10,6 @@ This is a simple web application that allows users to practice playing the game 
 - Users can play multiple rounds consecutively.
 
 
+
+![Screenshot 2024-02-22 114026](https://github.com/yashsharma228/Stone_Paper_Scissor_Game/assets/141614148/994c46ef-17bc-49f9-b2a4-4346017c283c)
+![Screenshot 2024-02-22 114026](https://github.com/yashsharma228/Stone_Paper_Scissor_Game/assets/141614148/35d4cf89-4ef5-40d2-b154-5fb6493b0103)

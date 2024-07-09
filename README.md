@@ -1,6 +1,6 @@
 # Stone Paper Scissor Website
 
-This is a simple web application that allows users to practice playing the game Stone Paper Scissors against the computer. The application is built using HTML, CSS, and JavaScript.
+This is a simple Practice web application Project that allows users to playing the game Stone Paper Scissors against the computer. The application is built using HTML, CSS, and JavaScript.
 
 ## Features
 

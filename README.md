@@ -13,4 +13,5 @@ Live Demo : https://yashsharma228.github.io/Stone_Paper_Scissor_Game/
 
 ## Acknowledgments
 
-JS tutorial by Apna College helped me make the app. Here's the https://www.youtube.com/watch?v=_V33HCZWLDQ to the tutorial.
+- JS tutorial by Apna College helped me make the app. 
+- Here's the https://www.youtube.com/watch?v=_V33HCZWLDQ to the tutorial.
